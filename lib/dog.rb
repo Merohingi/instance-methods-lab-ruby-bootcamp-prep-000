@@ -1,18 +1,16 @@
 class Dog
-  
-  def initialize
-    @name = name
+end
   end
   
   def bark
-    puts "wolf"
+    puts "Woof"
   end
   
   def sit
     puts "The Dog is sitting"
   end
   
-end
+
   
   
   
