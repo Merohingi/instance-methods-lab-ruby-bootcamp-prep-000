@@ -1,8 +1,5 @@
 class Person
-  
-  def initialize
-    @name = name
-  end
+end
   
   def talk
     puts "Hello World!"
@@ -16,4 +13,3 @@ class Person
   
   
   
-end
